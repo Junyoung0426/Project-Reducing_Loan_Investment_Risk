@@ -1,4 +1,5 @@
 # Project-Reducing_Loan_Investment_Risk
+Kaggle Lending Club dataset can be found at: https://www.kaggle.com/datasets/wordsforthewise/lending-club
 
 ## Table of Contents
 
