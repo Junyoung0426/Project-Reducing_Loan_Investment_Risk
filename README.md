@@ -1,10 +1,12 @@
 # Project-Reducing_Loan_Investment_Risk
 
-Project Overview
-Business Understanding
-Exploratory Data Analysis (EDA)
-Data Preprocessing
-Modeling
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Understanding](#business-understanding)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Preprocessing](#data-preprocessing)
+- [Modeling](#modeling)
 
 ## Project Overview
 
