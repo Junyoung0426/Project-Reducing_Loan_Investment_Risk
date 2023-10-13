@@ -1,5 +1,11 @@
 # Project-Reducing_Loan_Investment_Risk
 
+Project Overview
+Business Understanding
+Exploratory Data Analysis (EDA)
+Data Preprocessing
+Modeling
+
 ## Project Overview
 
 This project focuses on LendingClub, a peer-to-peer lending company based in the United States with its headquarters in San Francisco, California. LendingClub made history by becoming the first peer-to-peer lender to register its loan offerings as securities with the Securities and Exchange Commission (SEC) and by providing loan trading on a secondary market. It has earned the distinction of being the world's largest peer-to-peer lending platform.
